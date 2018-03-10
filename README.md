@@ -60,4 +60,6 @@ head(Dat)
 6 2018-03-09 23:52:58 29000 shiny 20  0 245316 78764 6808 R 98.7 3.8 0:01.12   0       shiny-server/sentify
 ```
 
-There you have it! For a live example, go [here](http://rcharlie.net/server_status/).
+There you have it! You'll notice there's other information, notably CPU and Memory, in the data that could also be useful to track over time.
+
+For a live example, go [here](http://rcharlie.net/server_status/).
